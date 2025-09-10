@@ -1,6 +1,6 @@
-# Chatbox NIM 
+# Chatbot NIM 
 
-Un chatbox hecho en **React + Vite** que usa los modelos **NIM de NVIDIA** vía API.
+Un chatbot hecho en **React + Vite** que usa los modelos **NIM de NVIDIA** vía API.
 https://chatboxie.vercel.app/
 ---
 
