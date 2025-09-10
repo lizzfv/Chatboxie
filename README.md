@@ -1,8 +1,6 @@
-# Chatbox NIM 🚀
+# Chatbox NIM 
 
 Un chatbox hecho en **React + Vite** que usa los modelos **NIM de NVIDIA** vía API.
-
-![screenshot](./public/screenshot.png)
 
 ---
 
